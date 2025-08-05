@@ -1,1 +1,5 @@
 .class
+com.iml
+.idea
+dsa.iml
+.gitignore
